@@ -1,3 +1,5 @@
+//Comment only for git to change two
+
 var readline = require('readline-sync');
 
 var flights = [
